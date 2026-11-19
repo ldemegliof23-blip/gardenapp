@@ -1,4 +1,5 @@
 garden.db
-*.pyc*
+*.pyc
 __pycache__/db.cpython-314.pyc
 __pycache__/queries.cpython-314.pyc
+__pycache__/*
